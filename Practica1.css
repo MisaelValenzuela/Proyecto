@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(199, 199, 199);
+}
+
+h1{
+    color: rgb(2, 26, 71);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    
+}
+a:link{
+    color: goldenrod;
+}
+a:visited{
+    color:rgb(146, 107, 8);
+}
+
+img.derecha{
+    float: right;
+    margin-left: 40px;
+}
+
+img.izquierda{
+    float: left;
+    margin-right: 40px;
+}
+
+#portada{
+    height: 440px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: goldenrod;
+}
+
+.indice{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(180, 231, 252);
+}
+.uno{
+    padding: 40px;
+    border: rgb(33, 148, 71) 5px outset;
+    overflow: auto;
+    vertical-align: middle;
+    border-bottom-left-radius: 1cm;
+    border-top-right-radius: 1cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    text-align: justify;
+}
+
+.dos{
+    padding: 40px;
+    border: rgb(109, 7, 95) 5px outset;
+    overflow: auto;
+    vertical-align: middle;
+    border-bottom-right-radius: 1cm;
+    border-top-left-radius: 1cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    text-align: justify;
+}
+
+
+
+
+
+
